@@ -3,4 +3,9 @@
   <groupId>com.sapient</groupId>
   <artifactId>Calculator</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+<modelVersion>2.0.0</modelVersion>
+  <groupId>com.sapient</groupId>
+  <artifactId>Calculator</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
 </project>
